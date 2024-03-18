@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+
+# Gett![Screenshot (165)](https://github.com/arjun-chand/newsDragon/assets/124900252/cf4c5faa-d0d4-44eb-9cee-330a25dd900f)
+
+![Screenshot (166)](https://github.com/arjun-chand/newsDragon/assets/124900252/95f68e2b-7d73-4192-b37c-32ffce22834a)
+
+ing Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
